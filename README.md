@@ -1,1 +1,3 @@
-# Back-Orders
+Backorders are products that are temporarily out of stock, but a customer is permitted to place an order against future inventory. They generally indicate that customer demand for a product or service exceeds a company’s capacity to supply it. In the situation of Out-of-stock where the delivery date of the goods can’t be promised the customers are allowed to shop for the products and order.
+
+In this project, we are first going to cluster the samples using K-Means and Hierarchical methods and then build two machine learning classification models depending on lead time, in transit quantity, sales and forecast, we will arrive at the product went on back order or not which is the target variable which will be predicted using the models- Logistic Regression and Decision Tree and then consider the best performing model.
